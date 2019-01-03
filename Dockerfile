@@ -97,4 +97,3 @@ EXPOSE 80
 STOPSIGNAL SIGTERM
 
 CMD ["nginx", "-g", "daemon off;"]
-© 2019 GitHub, Inc.
